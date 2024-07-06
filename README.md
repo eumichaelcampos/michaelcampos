@@ -1,7 +1,5 @@
 # Michael Campos
 
-Claro! Vamos personalizar o arquivo `README.md` com suas informações. Aqui está um exemplo atualizado:
-
 ```markdown
 export const michaelCampos = {
   bio   : {
